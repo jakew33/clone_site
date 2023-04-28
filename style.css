@@ -1,0 +1,7 @@
+.bg-pen {
+  background-image: url('./assets/Top.png');
+  height: 60vh;
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
+}
